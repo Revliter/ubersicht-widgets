@@ -259,7 +259,7 @@ const errorWrapper = css`
 const wrapper = css`
   font-family: Montserrat, sans-serif;
   width: 295px;
-  height: 460px;
+  height: 545px;
   overflow: hidden;
   opacity: calc(${config.theme.opacity} / 100);
   background-color: ${backgroundColor};
